@@ -1,0 +1,27 @@
+.main > input {
+    /* width: 100px; */
+    /* height: 25px; */
+    border-radius: 7px;
+    border: 1px solid grey;
+    padding: 5px;
+}
+
+#submit, #cancel {
+    width: 70px; 
+    height: 40px;
+    border-radius: 5px;
+    border: none;
+    margin-right: 20px;
+    margin-top: 20px;
+    
+}
+
+#submit {
+    background-color: blue;
+    color: white;
+}
+#cancel{
+    background-color: white;
+    color: black;
+    border: 1px solid blue;
+}

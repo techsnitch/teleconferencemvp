@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="106" height="98" viewBox="0 0 106 98">
+  <defs>
+    <filter id="Rectangle_2128" x="0" y="0" width="106" height="98" filterUnits="userSpaceOnUse">
+      <feOffset dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Telco_image_man" data-name="Telco image man" transform="translate(-45.216 -40.299)">
+    <g transform="matrix(1, 0, 0, 1, 45.22, 40.3)" filter="url(#Rectangle_2128)">
+      <rect id="Rectangle_2128-2" data-name="Rectangle 2128" width="88" height="80" transform="translate(9 6)" fill="#e6e6e6"/>
+    </g>
+    <ellipse id="Ellipse_42" data-name="Ellipse 42" cx="15.381" cy="12.73" rx="15.381" ry="12.73" transform="translate(73.188 69.518)" fill="#ffb9b9"/>
+    <path id="Path_1030" data-name="Path 1030" d="M358.421,378.225s1.923,7.558,1.923,8.354,9.132,4.376,9.132,4.376l8.171-1.193,2.884-7.16s-4.807-5.967-4.807-8.354Z" transform="translate(-276.143 -286.618)" fill="#ffb9b9"/>
+    <path id="Path_1031" data-name="Path 1031" d="M343.915,335.155s4.883-8.757,14.243-6.736,14.65,5.052,15.057,8.083a35.851,35.851,0,0,1-.2,7.578s-1.017-6.231-7.528-4.884-16.685.337-16.685.337l-1.628,12.125s-1.831-2.189-3.866-.842S337.4,337.849,343.915,335.155Z" transform="translate(-268.643 -263.006)" fill="#2f2e41"/>
+    <path id="Path_1032" data-name="Path 1032" d="M393.787,416.679l-3.7-14.323c-1.857-4.774-6.483-8.749-6.483-8.749l-22.837-6.9h-.006c-.091,3.557-2.83,6.662-6.792,7.7-6.949,1.985-11.733-4.7-11.733-4.7l-19.3,12.654a15.267,15.267,0,0,0-5.552,12.734l-.64,4.649h78.83Z" transform="translate(-258.366 -293.439)" fill="#6c63ff"/>
+  </g>
+</svg>
